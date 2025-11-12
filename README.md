@@ -61,3 +61,7 @@ To understand how **Word2Vec embeddings** differ from traditional **TF-IDF** in 
 **Tajwinder Singh**  
 Aspiring Data Scientist | Machine Learning | NLP | Deep Learning  
 [LinkedIn](https://www.linkedin.com/in/tajwinder-singh-) • [GitHub](https://github.com/tajwinder-singh)
+
+
+https://github.com/user-attachments/assets/f91f5c0b-4d51-4e3e-8efe-46088c282e2a
+
